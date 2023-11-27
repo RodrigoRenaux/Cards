@@ -2,6 +2,11 @@
 
 A new Flutter project for Authenticating and Editing Text Cards.
 
+This is an example Application that uses Mobx for State Management and Shared Preferences
+for data persistence. 
+
+Enjoy!
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
